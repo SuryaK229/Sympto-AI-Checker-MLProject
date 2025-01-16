@@ -1,6 +1,6 @@
 # Sympto-AI-Checker-ML Project
 
-## An AI-powered Symptom Checker application developed using Python and machine learning algorithms for the early detection of common diseases. The system provides users with potential disease predictions based on reported symptoms, guiding them toward appropriate medical advice.
+**An AI-powered Symptom Checker application developed using Python and machine learning algorithms for the early detection of common diseases. The system provides users with potential disease predictions based on reported symptoms, guiding them toward appropriate medical advice.**
 
 ## **Features**
 
