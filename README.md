@@ -25,7 +25,10 @@ Source: Institute of Electrical and Electronics Engineers (IEEE)
 
 ## Setup Instructions
 
-Prerequisites
+**Prerequisites**
 
-Python 3.x installed
-Required Python libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, flask (optional)
+- Python 3.x installed
+- Required Python libraries: pandas, numpy, scikit-learn, matplotlib, seaborn, flask (optional)
+
+- **Clone the Repository**
+- **Run the Application** : python app.py
